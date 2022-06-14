@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9218bbbb-8680-41fa-bc0c-305f6ddd4dab": {
+      "ProjectGuid": "9218bbbb-8680-41fa-bc0c-305f6ddd4dab",
+      "DisplayName": "GrupoWebBackend.Tests",
+      "ColorIndex": 0
+    },
+    "8a8619fc-16a2-4640-86fa-fbd0c2319d84": {
+      "ProjectGuid": "8a8619fc-16a2-4640-86fa-fbd0c2319d84",
+      "DisplayName": "GrupoWebBackend",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
